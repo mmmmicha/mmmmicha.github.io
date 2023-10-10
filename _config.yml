@@ -1,9 +1,9 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
-url:                "https://startbootstrap.github.io"
+title:              우당탕탕 우리내 개발생활
+email:              wjdrhkd456@gmail.com
+description:        카멜레온같은 소프트웨어 엔지니어가 되고 싶은 4년차 백엔드 개발자의 블로그
+author:             미카
+baseurl:            "/"
+url:                "https://mmmmicha.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
